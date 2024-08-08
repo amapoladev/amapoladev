@@ -21,4 +21,4 @@ I am always looking for ways to improve and tackle new challenges. Every project
 **Positive Attitude:** I approach every challenge with an optimistic outlook and enjoy the process of problem-solving and seeing results on the screen. Every small achievement is a win, and it motivates me to keep moving forward. 😄🎉
 ## 🔗 Let’s Connect!
 
-If you’re interested in collaborating on exciting projects or just want to chat about web development, I’d love to connect with you! You can find me here on GitHub or send me an email at *amapoladev@outlook.com*. I’m ready to take on new challenges and make ideas come to life. 📩🚀
+If you’re interested in collaborating on exciting projects or just want to chat about web development, I’d love to connect with you! You can find me here on GitHub or send me an email at *sandovaljohana@outlook.es*. I’m ready to take on new challenges and make ideas come to life. 📩🚀
