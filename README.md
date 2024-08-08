@@ -5,7 +5,7 @@ I’m Johana, a web developer completely immersed in the world of code and desig
 ## 🚀 What I Do: 
 **I work with:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,figma,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,figma,react,netlify,webpack,babel,vite,tailwind)](https://skillicons.dev) 
 
 I enjoy watching my code transform into functional and stylish applications. Every line of code is an opportunity to learn something new and make things work seamlessly. 💻🔍
 
